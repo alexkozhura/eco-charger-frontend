@@ -7,12 +7,6 @@ interface Props {
 }
 
 export const CarbonTimeline = ({ data }: Props) => {
-  const getGradientColor = (value: number) => {
-    const max = 1000; // Adjust based on your data
-    const ratio = value / max;
-    return `rgb(${255 * ratio}, ${255 * (1 - ratio)}, 0)`;
-  };
-
   return (
     <ResponsiveContainer width="100%" height={400}>
       <AreaChart data={data}>
@@ -24,10 +18,15 @@ export const CarbonTimeline = ({ data }: Props) => {
         </defs>
         <XAxis 
           dataKey="timestamp"
-          tickFormatter={(str) => format(parseISO(str), 'HH:mm')}
-          interval="preserveStartEnd"
+          tickFormatter={(str) => format(parseISO(str), 'HH:00')}
+          interval={6}
+          tickCount={8}
         />
-        <YAxis domain={['dataMin', 'dataMax']} />
+        <YAxis 
+          domain={['dataMin', 'dataMax']} 
+          tickFormatter={(value) => `${Math.round(value)}`}
+          width={50}
+        />
         <Tooltip
           labelFormatter={(label) => format(parseISO(label), 'MMM dd, HH:mm')}
           formatter={(value: number) => [`${Math.round(value)} g/kWh`, 'Carbon Intensity']}
