@@ -18,13 +18,13 @@ export const CarbonTimeline = ({ data }: Props) => {
         </defs>
         <XAxis 
           dataKey="timestamp"
-          tickFormatter={(str) => format(parseISO(str), 'HH:00')}
-          interval={6}
-          tickCount={8}
+          tickFormatter={(str) => format(parseISO(str), 'dd MMM HH:00')}
+          interval={12}
+          tickCount={6}
         />
         <YAxis 
-          domain={['dataMin', 'dataMax']} 
-          tickFormatter={(value) => `${Math.round(value)}`}
+          domain={[500, 1000]}
+          ticks={[600, 700, 800, 900]}
           width={50}
         />
         <Tooltip
