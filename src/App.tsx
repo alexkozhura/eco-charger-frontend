@@ -2,7 +2,16 @@ import { useEffect, useState } from 'react';
 import { ForecastResponse } from './types/forecast';
 import { getForecast } from './services/forecastService';
 import { CarbonTimeline } from './components/CarbonTimeline';
-import './App.css';
+
+const styles = {
+  container: {
+    flex: 1,
+    padding: 20,
+    maxWidth: 1200,
+    alignSelf: 'center',
+    width: '100%',
+  }
+};
 
 function App() {
   const [data, setData] = useState<ForecastResponse | null>(null);
@@ -14,7 +23,7 @@ function App() {
   if (!data) return <div>Loading...</div>;
 
   return (
-    <div className="App">
+    <div style={styles.container}>
       <h1>Carbon Intensity Forecast</h1>
       <CarbonTimeline data={data.forecast} />
     </div>
