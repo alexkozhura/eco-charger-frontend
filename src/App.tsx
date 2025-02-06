@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { ForecastResponse } from './types/forecast';
 import { getForecast } from './services/forecastService';
 import { CarbonTimeline } from './components/CarbonTimeline';
+import './App.css';
 
 function App() {
   const [data, setData] = useState<ForecastResponse | null>(null);
