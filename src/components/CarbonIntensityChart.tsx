@@ -69,9 +69,15 @@ export default function CarbonIntensityChart() {
               <YAxis label={{ value: "gCO2/kWh", angle: -90, position: "insideLeft" }} />
               <Bar
                 dataKey="intensity"
-                shape={(props: CustomBarProps) => (
-                  <CustomBar {...props} minIntensity={minIntensity} maxIntensity={maxIntensity} />
-                )}
+                shape={(props: any) => {
+                  const customProps = {
+                    ...props,
+                    minIntensity,
+                    maxIntensity,
+                    intensity: props.value
+                  }
+                  return <CustomBar {...customProps} />
+                }}
               />
             </BarChart>
           </ResponsiveContainer>
