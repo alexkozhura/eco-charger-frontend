@@ -55,15 +55,19 @@ export default function CarbonIntensityChart() {
   }, [data])
 
   return (
-    <Card className="w-full max-w-4xl mx-auto">
-      <CardHeader>
-        <CardTitle>24-Hour Carbon Intensity</CardTitle>
-        <CardDescription>Carbon intensity (gCO2/kWh) over the next 24 hours</CardDescription>
-      </CardHeader>
+    <Card className="w-full max-w-4xl mx-auto p-4">
+      <div className="text-center mb-6">
+        <h2 className="text-xl font-semibold">24-Hour Carbon Intensity</h2>
+        <p className="text-gray-600">Carbon intensity (gCO2/kWh) over the next 24 hours</p>
+      </div>
       <CardContent>
         <div style={{ width: '100%', height: 400 }}>
           <ResponsiveContainer width="100%" height="100%">
-            <BarChart data={data} margin={{ top: 20, right: 30, left: 20, bottom: 5 }}>
+            <BarChart 
+              data={data} 
+              margin={{ top: 20, right: 60, left: 60, bottom: 5 }}
+              layout="horizontal"
+            >
               <CartesianGrid strokeDasharray="3 3" />
               <XAxis dataKey="time" />
               <YAxis label={{ value: "gCO2/kWh", angle: -90, position: "insideLeft" }} />

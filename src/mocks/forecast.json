@@ -1,1 +1,677 @@
-{"generated_at":"2025-02-07T07:09:28.290006+00:00","forecast":[{"timestamp":"2025-02-07T00:00:00+00:00","carbon_intensity":890.1572875976562},{"timestamp":"2025-02-07T01:00:00+00:00","carbon_intensity":865.6921997070312},{"timestamp":"2025-02-07T02:00:00+00:00","carbon_intensity":865.7896118164062},{"timestamp":"2025-02-07T03:00:00+00:00","carbon_intensity":850.7096557617188},{"timestamp":"2025-02-07T04:00:00+00:00","carbon_intensity":842.6744995117188},{"timestamp":"2025-02-07T05:00:00+00:00","carbon_intensity":828.5958862304688},{"timestamp":"2025-02-07T06:00:00+00:00","carbon_intensity":837.7982177734375},{"timestamp":"2025-02-07T07:00:00+00:00","carbon_intensity":820.6537475585938},{"timestamp":"2025-02-07T08:00:00+00:00","carbon_intensity":815.8292846679688},{"timestamp":"2025-02-07T09:00:00+00:00","carbon_intensity":779.6652221679688},{"timestamp":"2025-02-07T10:00:00+00:00","carbon_intensity":791.4412231445312},{"timestamp":"2025-02-07T11:00:00+00:00","carbon_intensity":738.047119140625},{"timestamp":"2025-02-07T12:00:00+00:00","carbon_intensity":692.6680297851562},{"timestamp":"2025-02-07T13:00:00+00:00","carbon_intensity":718.90771484375},{"timestamp":"2025-02-07T14:00:00+00:00","carbon_intensity":719.880615234375},{"timestamp":"2025-02-07T15:00:00+00:00","carbon_intensity":720.0990600585938},{"timestamp":"2025-02-07T16:00:00+00:00","carbon_intensity":694.7557373046875},{"timestamp":"2025-02-07T17:00:00+00:00","carbon_intensity":683.9759521484375},{"timestamp":"2025-02-07T18:00:00+00:00","carbon_intensity":684.5756225585938},{"timestamp":"2025-02-07T19:00:00+00:00","carbon_intensity":689.1962280273438},{"timestamp":"2025-02-07T20:00:00+00:00","carbon_intensity":677.2308349609375},{"timestamp":"2025-02-07T21:00:00+00:00","carbon_intensity":650.84814453125},{"timestamp":"2025-02-07T22:00:00+00:00","carbon_intensity":640.900390625},{"timestamp":"2025-02-07T23:00:00+00:00","carbon_intensity":632.9309692382812},{"timestamp":"2025-02-08T00:00:00+00:00","carbon_intensity":604.9908447265625},{"timestamp":"2025-02-08T01:00:00+00:00","carbon_intensity":608.3621215820312},{"timestamp":"2025-02-08T02:00:00+00:00","carbon_intensity":607.742919921875},{"timestamp":"2025-02-08T03:00:00+00:00","carbon_intensity":614.4332885742188},{"timestamp":"2025-02-08T04:00:00+00:00","carbon_intensity":621.5081176757812},{"timestamp":"2025-02-08T05:00:00+00:00","carbon_intensity":640.7997436523438},{"timestamp":"2025-02-08T06:00:00+00:00","carbon_intensity":635.9122924804688},{"timestamp":"2025-02-08T07:00:00+00:00","carbon_intensity":628.34130859375},{"timestamp":"2025-02-08T08:00:00+00:00","carbon_intensity":632.2388305664062},{"timestamp":"2025-02-08T09:00:00+00:00","carbon_intensity":633.8085327148438},{"timestamp":"2025-02-08T10:00:00+00:00","carbon_intensity":564.0653686523438},{"timestamp":"2025-02-08T11:00:00+00:00","carbon_intensity":529.849365234375},{"timestamp":"2025-02-08T12:00:00+00:00","carbon_intensity":562.0542602539062},{"timestamp":"2025-02-08T13:00:00+00:00","carbon_intensity":604.757568359375},{"timestamp":"2025-02-08T14:00:00+00:00","carbon_intensity":663.4135131835938},{"timestamp":"2025-02-08T15:00:00+00:00","carbon_intensity":671.2926025390625},{"timestamp":"2025-02-08T16:00:00+00:00","carbon_intensity":683.7088623046875},{"timestamp":"2025-02-08T17:00:00+00:00","carbon_intensity":679.0226440429688},{"timestamp":"2025-02-08T18:00:00+00:00","carbon_intensity":679.397216796875},{"timestamp":"2025-02-08T19:00:00+00:00","carbon_intensity":688.4714965820312},{"timestamp":"2025-02-08T20:00:00+00:00","carbon_intensity":707.5994262695312},{"timestamp":"2025-02-08T21:00:00+00:00","carbon_intensity":724.3417358398438},{"timestamp":"2025-02-08T22:00:00+00:00","carbon_intensity":735.2020874023438},{"timestamp":"2025-02-08T23:00:00+00:00","carbon_intensity":746.5865478515625},{"timestamp":"2025-02-09T00:00:00+00:00","carbon_intensity":766.0922241210938},{"timestamp":"2025-02-09T01:00:00+00:00","carbon_intensity":763.2911987304688},{"timestamp":"2025-02-09T02:00:00+00:00","carbon_intensity":756.8238525390625},{"timestamp":"2025-02-09T03:00:00+00:00","carbon_intensity":748.0689086914062},{"timestamp":"2025-02-09T04:00:00+00:00","carbon_intensity":755.13818359375},{"timestamp":"2025-02-09T05:00:00+00:00","carbon_intensity":756.1163330078125},{"timestamp":"2025-02-09T06:00:00+00:00","carbon_intensity":780.0785522460938},{"timestamp":"2025-02-09T07:00:00+00:00","carbon_intensity":769.3695068359375},{"timestamp":"2025-02-09T08:00:00+00:00","carbon_intensity":768.2496948242188},{"timestamp":"2025-02-09T09:00:00+00:00","carbon_intensity":716.5093994140625},{"timestamp":"2025-02-09T10:00:00+00:00","carbon_intensity":670.2493896484375},{"timestamp":"2025-02-09T11:00:00+00:00","carbon_intensity":642.8565673828125},{"timestamp":"2025-02-09T12:00:00+00:00","carbon_intensity":659.508056640625},{"timestamp":"2025-02-09T13:00:00+00:00","carbon_intensity":701.9481811523438},{"timestamp":"2025-02-09T14:00:00+00:00","carbon_intensity":805.7494506835938},{"timestamp":"2025-02-09T15:00:00+00:00","carbon_intensity":844.53466796875},{"timestamp":"2025-02-09T16:00:00+00:00","carbon_intensity":821.6862182617188},{"timestamp":"2025-02-09T17:00:00+00:00","carbon_intensity":785.3577880859375},{"timestamp":"2025-02-09T18:00:00+00:00","carbon_intensity":790.6802978515625},{"timestamp":"2025-02-09T19:00:00+00:00","carbon_intensity":800.8027954101562},{"timestamp":"2025-02-09T20:00:00+00:00","carbon_intensity":818.150390625},{"timestamp":"2025-02-09T21:00:00+00:00","carbon_intensity":853.515625},{"timestamp":"2025-02-09T22:00:00+00:00","carbon_intensity":870.2864990234375},{"timestamp":"2025-02-09T23:00:00+00:00","carbon_intensity":875.7374267578125},{"timestamp":"2025-02-10T00:00:00+00:00","carbon_intensity":892.5853271484375},{"timestamp":"2025-02-10T01:00:00+00:00","carbon_intensity":880.2965087890625},{"timestamp":"2025-02-10T02:00:00+00:00","carbon_intensity":878.9367065429688},{"timestamp":"2025-02-10T03:00:00+00:00","carbon_intensity":874.2297973632812},{"timestamp":"2025-02-10T04:00:00+00:00","carbon_intensity":874.7135009765625},{"timestamp":"2025-02-10T05:00:00+00:00","carbon_intensity":842.879638671875},{"timestamp":"2025-02-10T06:00:00+00:00","carbon_intensity":831.463134765625},{"timestamp":"2025-02-10T07:00:00+00:00","carbon_intensity":788.2952270507812},{"timestamp":"2025-02-10T08:00:00+00:00","carbon_intensity":759.037109375},{"timestamp":"2025-02-10T09:00:00+00:00","carbon_intensity":710.622802734375},{"timestamp":"2025-02-10T10:00:00+00:00","carbon_intensity":677.05126953125},{"timestamp":"2025-02-10T11:00:00+00:00","carbon_intensity":654.3355102539062},{"timestamp":"2025-02-10T12:00:00+00:00","carbon_intensity":645.5723266601562},{"timestamp":"2025-02-10T13:00:00+00:00","carbon_intensity":680.589111328125},{"timestamp":"2025-02-10T14:00:00+00:00","carbon_intensity":755.7509765625},{"timestamp":"2025-02-10T15:00:00+00:00","carbon_intensity":768.0978393554688},{"timestamp":"2025-02-10T16:00:00+00:00","carbon_intensity":754.4454956054688},{"timestamp":"2025-02-10T17:00:00+00:00","carbon_intensity":740.3243408203125},{"timestamp":"2025-02-10T18:00:00+00:00","carbon_intensity":728.551513671875},{"timestamp":"2025-02-10T19:00:00+00:00","carbon_intensity":716.81787109375},{"timestamp":"2025-02-10T20:00:00+00:00","carbon_intensity":727.5291137695312},{"timestamp":"2025-02-10T21:00:00+00:00","carbon_intensity":735.12060546875},{"timestamp":"2025-02-10T22:00:00+00:00","carbon_intensity":749.3787231445312},{"timestamp":"2025-02-10T23:00:00+00:00","carbon_intensity":768.9291381835938},{"timestamp":"2025-02-11T00:00:00+00:00","carbon_intensity":775.5406494140625},{"timestamp":"2025-02-11T01:00:00+00:00","carbon_intensity":780.9461669921875},{"timestamp":"2025-02-11T02:00:00+00:00","carbon_intensity":784.0987548828125},{"timestamp":"2025-02-11T03:00:00+00:00","carbon_intensity":781.160888671875},{"timestamp":"2025-02-11T04:00:00+00:00","carbon_intensity":784.8631591796875},{"timestamp":"2025-02-11T05:00:00+00:00","carbon_intensity":787.3334350585938},{"timestamp":"2025-02-11T06:00:00+00:00","carbon_intensity":789.2127685546875},{"timestamp":"2025-02-11T07:00:00+00:00","carbon_intensity":774.7997436523438},{"timestamp":"2025-02-11T08:00:00+00:00","carbon_intensity":753.5424194335938},{"timestamp":"2025-02-11T09:00:00+00:00","carbon_intensity":700.5030517578125},{"timestamp":"2025-02-11T10:00:00+00:00","carbon_intensity":677.9391479492188},{"timestamp":"2025-02-11T11:00:00+00:00","carbon_intensity":659.14697265625},{"timestamp":"2025-02-11T12:00:00+00:00","carbon_intensity":658.962646484375},{"timestamp":"2025-02-11T13:00:00+00:00","carbon_intensity":682.9027099609375},{"timestamp":"2025-02-11T14:00:00+00:00","carbon_intensity":726.9968872070312},{"timestamp":"2025-02-11T15:00:00+00:00","carbon_intensity":751.267578125},{"timestamp":"2025-02-11T16:00:00+00:00","carbon_intensity":746.8805541992188},{"timestamp":"2025-02-11T17:00:00+00:00","carbon_intensity":734.1870727539062},{"timestamp":"2025-02-11T18:00:00+00:00","carbon_intensity":719.9794921875},{"timestamp":"2025-02-11T19:00:00+00:00","carbon_intensity":717.85498046875},{"timestamp":"2025-02-11T20:00:00+00:00","carbon_intensity":715.166748046875},{"timestamp":"2025-02-11T21:00:00+00:00","carbon_intensity":707.3151245117188},{"timestamp":"2025-02-11T22:00:00+00:00","carbon_intensity":706.7980346679688},{"timestamp":"2025-02-11T23:00:00+00:00","carbon_intensity":696.5478515625},{"timestamp":"2025-02-12T00:00:00+00:00","carbon_intensity":705.6888427734375},{"timestamp":"2025-02-12T01:00:00+00:00","carbon_intensity":721.4594116210938},{"timestamp":"2025-02-12T02:00:00+00:00","carbon_intensity":746.0863037109375},{"timestamp":"2025-02-12T03:00:00+00:00","carbon_intensity":758.3002319335938},{"timestamp":"2025-02-12T04:00:00+00:00","carbon_intensity":757.1624755859375},{"timestamp":"2025-02-12T05:00:00+00:00","carbon_intensity":751.369873046875},{"timestamp":"2025-02-12T06:00:00+00:00","carbon_intensity":739.0097045898438},{"timestamp":"2025-02-12T07:00:00+00:00","carbon_intensity":734.7092895507812},{"timestamp":"2025-02-12T08:00:00+00:00","carbon_intensity":722.0575561523438},{"timestamp":"2025-02-12T09:00:00+00:00","carbon_intensity":652.228271484375},{"timestamp":"2025-02-12T10:00:00+00:00","carbon_intensity":637.4693603515625},{"timestamp":"2025-02-12T11:00:00+00:00","carbon_intensity":611.7527465820312},{"timestamp":"2025-02-12T12:00:00+00:00","carbon_intensity":613.6654052734375},{"timestamp":"2025-02-12T13:00:00+00:00","carbon_intensity":678.73828125},{"timestamp":"2025-02-12T14:00:00+00:00","carbon_intensity":757.5883178710938},{"timestamp":"2025-02-12T15:00:00+00:00","carbon_intensity":785.9493408203125},{"timestamp":"2025-02-12T16:00:00+00:00","carbon_intensity":782.7694091796875},{"timestamp":"2025-02-12T17:00:00+00:00","carbon_intensity":767.3961181640625},{"timestamp":"2025-02-12T18:00:00+00:00","carbon_intensity":766.3162841796875},{"timestamp":"2025-02-12T19:00:00+00:00","carbon_intensity":778.01611328125},{"timestamp":"2025-02-12T20:00:00+00:00","carbon_intensity":813.2510375976562},{"timestamp":"2025-02-12T21:00:00+00:00","carbon_intensity":843.8452758789062},{"timestamp":"2025-02-12T22:00:00+00:00","carbon_intensity":851.7332153320312},{"timestamp":"2025-02-12T23:00:00+00:00","carbon_intensity":855.0640869140625},{"timestamp":"2025-02-13T00:00:00+00:00","carbon_intensity":853.1309204101562},{"timestamp":"2025-02-13T01:00:00+00:00","carbon_intensity":853.678955078125},{"timestamp":"2025-02-13T02:00:00+00:00","carbon_intensity":846.9097900390625},{"timestamp":"2025-02-13T03:00:00+00:00","carbon_intensity":845.653076171875},{"timestamp":"2025-02-13T04:00:00+00:00","carbon_intensity":844.0316162109375},{"timestamp":"2025-02-13T05:00:00+00:00","carbon_intensity":851.3367919921875},{"timestamp":"2025-02-13T06:00:00+00:00","carbon_intensity":851.7891845703125},{"timestamp":"2025-02-13T07:00:00+00:00","carbon_intensity":818.773193359375},{"timestamp":"2025-02-13T08:00:00+00:00","carbon_intensity":795.5118408203125},{"timestamp":"2025-02-13T09:00:00+00:00","carbon_intensity":706.3318481445312},{"timestamp":"2025-02-13T10:00:00+00:00","carbon_intensity":654.546630859375},{"timestamp":"2025-02-13T11:00:00+00:00","carbon_intensity":626.9381713867188},{"timestamp":"2025-02-13T12:00:00+00:00","carbon_intensity":616.6172485351562},{"timestamp":"2025-02-13T13:00:00+00:00","carbon_intensity":674.13330078125},{"timestamp":"2025-02-13T14:00:00+00:00","carbon_intensity":733.1406860351562},{"timestamp":"2025-02-13T15:00:00+00:00","carbon_intensity":814.6644287109375},{"timestamp":"2025-02-13T16:00:00+00:00","carbon_intensity":806.4251098632812},{"timestamp":"2025-02-13T17:00:00+00:00","carbon_intensity":772.3313598632812},{"timestamp":"2025-02-13T18:00:00+00:00","carbon_intensity":757.3180541992188},{"timestamp":"2025-02-13T19:00:00+00:00","carbon_intensity":762.256103515625},{"timestamp":"2025-02-13T20:00:00+00:00","carbon_intensity":756.49658203125},{"timestamp":"2025-02-13T21:00:00+00:00","carbon_intensity":768.378662109375},{"timestamp":"2025-02-13T22:00:00+00:00","carbon_intensity":775.6177978515625},{"timestamp":"2025-02-13T23:00:00+00:00","carbon_intensity":786.1658935546875}]}
+{
+  "generated_at": "2025-02-08T07:53:04.961093+00:00",
+  "forecast": [
+    {
+      "timestamp": "2025-02-08T00:00:00+0000",
+      "carbon_intensity": 631.4999389648438
+    },
+    {
+      "timestamp": "2025-02-08T01:00:00+0000",
+      "carbon_intensity": 614.2679443359375
+    },
+    {
+      "timestamp": "2025-02-08T02:00:00+0000",
+      "carbon_intensity": 618.2775268554688
+    },
+    {
+      "timestamp": "2025-02-08T03:00:00+0000",
+      "carbon_intensity": 621.1700439453125
+    },
+    {
+      "timestamp": "2025-02-08T04:00:00+0000",
+      "carbon_intensity": 635.33740234375
+    },
+    {
+      "timestamp": "2025-02-08T05:00:00+0000",
+      "carbon_intensity": 648.654541015625
+    },
+    {
+      "timestamp": "2025-02-08T06:00:00+0000",
+      "carbon_intensity": 655.149658203125
+    },
+    {
+      "timestamp": "2025-02-08T07:00:00+0000",
+      "carbon_intensity": 638.9795532226562
+    },
+    {
+      "timestamp": "2025-02-08T08:00:00+0000",
+      "carbon_intensity": 638.6754150390625
+    },
+    {
+      "timestamp": "2025-02-08T09:00:00+0000",
+      "carbon_intensity": 640.1397094726562
+    },
+    {
+      "timestamp": "2025-02-08T10:00:00+0000",
+      "carbon_intensity": 621.8616333007812
+    },
+    {
+      "timestamp": "2025-02-08T11:00:00+0000",
+      "carbon_intensity": 627.400634765625
+    },
+    {
+      "timestamp": "2025-02-08T12:00:00+0000",
+      "carbon_intensity": 585.6553955078125
+    },
+    {
+      "timestamp": "2025-02-08T13:00:00+0000",
+      "carbon_intensity": 619.7850952148438
+    },
+    {
+      "timestamp": "2025-02-08T14:00:00+0000",
+      "carbon_intensity": 667.933349609375
+    },
+    {
+      "timestamp": "2025-02-08T15:00:00+0000",
+      "carbon_intensity": 691.2044677734375
+    },
+    {
+      "timestamp": "2025-02-08T16:00:00+0000",
+      "carbon_intensity": 690.8191528320312
+    },
+    {
+      "timestamp": "2025-02-08T17:00:00+0000",
+      "carbon_intensity": 684.447021484375
+    },
+    {
+      "timestamp": "2025-02-08T18:00:00+0000",
+      "carbon_intensity": 681.8358764648438
+    },
+    {
+      "timestamp": "2025-02-08T19:00:00+0000",
+      "carbon_intensity": 687.8148803710938
+    },
+    {
+      "timestamp": "2025-02-08T20:00:00+0000",
+      "carbon_intensity": 701.83935546875
+    },
+    {
+      "timestamp": "2025-02-08T21:00:00+0000",
+      "carbon_intensity": 717.8110961914062
+    },
+    {
+      "timestamp": "2025-02-08T22:00:00+0000",
+      "carbon_intensity": 731.1622314453125
+    },
+    {
+      "timestamp": "2025-02-08T23:00:00+0000",
+      "carbon_intensity": 748.3927612304688
+    },
+    {
+      "timestamp": "2025-02-09T00:00:00+0000",
+      "carbon_intensity": 747.7828979492188
+    },
+    {
+      "timestamp": "2025-02-09T01:00:00+0000",
+      "carbon_intensity": 770.8853149414062
+    },
+    {
+      "timestamp": "2025-02-09T02:00:00+0000",
+      "carbon_intensity": 768.16064453125
+    },
+    {
+      "timestamp": "2025-02-09T03:00:00+0000",
+      "carbon_intensity": 780.4703979492188
+    },
+    {
+      "timestamp": "2025-02-09T04:00:00+0000",
+      "carbon_intensity": 783.1505737304688
+    },
+    {
+      "timestamp": "2025-02-09T05:00:00+0000",
+      "carbon_intensity": 793.66845703125
+    },
+    {
+      "timestamp": "2025-02-09T06:00:00+0000",
+      "carbon_intensity": 802.4826049804688
+    },
+    {
+      "timestamp": "2025-02-09T07:00:00+0000",
+      "carbon_intensity": 803.9447021484375
+    },
+    {
+      "timestamp": "2025-02-09T08:00:00+0000",
+      "carbon_intensity": 773.4072875976562
+    },
+    {
+      "timestamp": "2025-02-09T09:00:00+0000",
+      "carbon_intensity": 727.0401000976562
+    },
+    {
+      "timestamp": "2025-02-09T10:00:00+0000",
+      "carbon_intensity": 690.7178344726562
+    },
+    {
+      "timestamp": "2025-02-09T11:00:00+0000",
+      "carbon_intensity": 667.9735107421875
+    },
+    {
+      "timestamp": "2025-02-09T12:00:00+0000",
+      "carbon_intensity": 696.2402954101562
+    },
+    {
+      "timestamp": "2025-02-09T13:00:00+0000",
+      "carbon_intensity": 740.1954956054688
+    },
+    {
+      "timestamp": "2025-02-09T14:00:00+0000",
+      "carbon_intensity": 833.8750610351562
+    },
+    {
+      "timestamp": "2025-02-09T15:00:00+0000",
+      "carbon_intensity": 843.4157104492188
+    },
+    {
+      "timestamp": "2025-02-09T16:00:00+0000",
+      "carbon_intensity": 795.6829833984375
+    },
+    {
+      "timestamp": "2025-02-09T17:00:00+0000",
+      "carbon_intensity": 776.65576171875
+    },
+    {
+      "timestamp": "2025-02-09T18:00:00+0000",
+      "carbon_intensity": 791.5665283203125
+    },
+    {
+      "timestamp": "2025-02-09T19:00:00+0000",
+      "carbon_intensity": 780.382568359375
+    },
+    {
+      "timestamp": "2025-02-09T20:00:00+0000",
+      "carbon_intensity": 810.2214965820312
+    },
+    {
+      "timestamp": "2025-02-09T21:00:00+0000",
+      "carbon_intensity": 833.4427490234375
+    },
+    {
+      "timestamp": "2025-02-09T22:00:00+0000",
+      "carbon_intensity": 830.4838256835938
+    },
+    {
+      "timestamp": "2025-02-09T23:00:00+0000",
+      "carbon_intensity": 808.4260864257812
+    },
+    {
+      "timestamp": "2025-02-10T00:00:00+0000",
+      "carbon_intensity": 811.1928100585938
+    },
+    {
+      "timestamp": "2025-02-10T01:00:00+0000",
+      "carbon_intensity": 804.6535034179688
+    },
+    {
+      "timestamp": "2025-02-10T02:00:00+0000",
+      "carbon_intensity": 809.8223266601562
+    },
+    {
+      "timestamp": "2025-02-10T03:00:00+0000",
+      "carbon_intensity": 818.2886962890625
+    },
+    {
+      "timestamp": "2025-02-10T04:00:00+0000",
+      "carbon_intensity": 810.161376953125
+    },
+    {
+      "timestamp": "2025-02-10T05:00:00+0000",
+      "carbon_intensity": 773.1060791015625
+    },
+    {
+      "timestamp": "2025-02-10T06:00:00+0000",
+      "carbon_intensity": 761.115234375
+    },
+    {
+      "timestamp": "2025-02-10T07:00:00+0000",
+      "carbon_intensity": 740.265380859375
+    },
+    {
+      "timestamp": "2025-02-10T08:00:00+0000",
+      "carbon_intensity": 736.3939208984375
+    },
+    {
+      "timestamp": "2025-02-10T09:00:00+0000",
+      "carbon_intensity": 663.0152587890625
+    },
+    {
+      "timestamp": "2025-02-10T10:00:00+0000",
+      "carbon_intensity": 628.2147827148438
+    },
+    {
+      "timestamp": "2025-02-10T11:00:00+0000",
+      "carbon_intensity": 593.2725830078125
+    },
+    {
+      "timestamp": "2025-02-10T12:00:00+0000",
+      "carbon_intensity": 595.0763549804688
+    },
+    {
+      "timestamp": "2025-02-10T13:00:00+0000",
+      "carbon_intensity": 642.5801391601562
+    },
+    {
+      "timestamp": "2025-02-10T14:00:00+0000",
+      "carbon_intensity": 740.1714477539062
+    },
+    {
+      "timestamp": "2025-02-10T15:00:00+0000",
+      "carbon_intensity": 773.0870971679688
+    },
+    {
+      "timestamp": "2025-02-10T16:00:00+0000",
+      "carbon_intensity": 770.8487548828125
+    },
+    {
+      "timestamp": "2025-02-10T17:00:00+0000",
+      "carbon_intensity": 756.3958129882812
+    },
+    {
+      "timestamp": "2025-02-10T18:00:00+0000",
+      "carbon_intensity": 751.83154296875
+    },
+    {
+      "timestamp": "2025-02-10T19:00:00+0000",
+      "carbon_intensity": 763.4122924804688
+    },
+    {
+      "timestamp": "2025-02-10T20:00:00+0000",
+      "carbon_intensity": 780.0109252929688
+    },
+    {
+      "timestamp": "2025-02-10T21:00:00+0000",
+      "carbon_intensity": 782.8392333984375
+    },
+    {
+      "timestamp": "2025-02-10T22:00:00+0000",
+      "carbon_intensity": 798.409912109375
+    },
+    {
+      "timestamp": "2025-02-10T23:00:00+0000",
+      "carbon_intensity": 808.6183471679688
+    },
+    {
+      "timestamp": "2025-02-11T00:00:00+0000",
+      "carbon_intensity": 806.3419189453125
+    },
+    {
+      "timestamp": "2025-02-11T01:00:00+0000",
+      "carbon_intensity": 824.45166015625
+    },
+    {
+      "timestamp": "2025-02-11T02:00:00+0000",
+      "carbon_intensity": 821.55908203125
+    },
+    {
+      "timestamp": "2025-02-11T03:00:00+0000",
+      "carbon_intensity": 796.5230712890625
+    },
+    {
+      "timestamp": "2025-02-11T04:00:00+0000",
+      "carbon_intensity": 796.341552734375
+    },
+    {
+      "timestamp": "2025-02-11T05:00:00+0000",
+      "carbon_intensity": 787.40087890625
+    },
+    {
+      "timestamp": "2025-02-11T06:00:00+0000",
+      "carbon_intensity": 780.6036376953125
+    },
+    {
+      "timestamp": "2025-02-11T07:00:00+0000",
+      "carbon_intensity": 768.5872192382812
+    },
+    {
+      "timestamp": "2025-02-11T08:00:00+0000",
+      "carbon_intensity": 751.858642578125
+    },
+    {
+      "timestamp": "2025-02-11T09:00:00+0000",
+      "carbon_intensity": 680.1075439453125
+    },
+    {
+      "timestamp": "2025-02-11T10:00:00+0000",
+      "carbon_intensity": 660.909423828125
+    },
+    {
+      "timestamp": "2025-02-11T11:00:00+0000",
+      "carbon_intensity": 636.7725830078125
+    },
+    {
+      "timestamp": "2025-02-11T12:00:00+0000",
+      "carbon_intensity": 621.2045288085938
+    },
+    {
+      "timestamp": "2025-02-11T13:00:00+0000",
+      "carbon_intensity": 669.4522705078125
+    },
+    {
+      "timestamp": "2025-02-11T14:00:00+0000",
+      "carbon_intensity": 731.778564453125
+    },
+    {
+      "timestamp": "2025-02-11T15:00:00+0000",
+      "carbon_intensity": 750.6138916015625
+    },
+    {
+      "timestamp": "2025-02-11T16:00:00+0000",
+      "carbon_intensity": 765.4054565429688
+    },
+    {
+      "timestamp": "2025-02-11T17:00:00+0000",
+      "carbon_intensity": 765.1729125976562
+    },
+    {
+      "timestamp": "2025-02-11T18:00:00+0000",
+      "carbon_intensity": 761.223388671875
+    },
+    {
+      "timestamp": "2025-02-11T19:00:00+0000",
+      "carbon_intensity": 756.716796875
+    },
+    {
+      "timestamp": "2025-02-11T20:00:00+0000",
+      "carbon_intensity": 759.698974609375
+    },
+    {
+      "timestamp": "2025-02-11T21:00:00+0000",
+      "carbon_intensity": 772.0428466796875
+    },
+    {
+      "timestamp": "2025-02-11T22:00:00+0000",
+      "carbon_intensity": 780.3492431640625
+    },
+    {
+      "timestamp": "2025-02-11T23:00:00+0000",
+      "carbon_intensity": 801.2252197265625
+    },
+    {
+      "timestamp": "2025-02-12T00:00:00+0000",
+      "carbon_intensity": 805.81884765625
+    },
+    {
+      "timestamp": "2025-02-12T01:00:00+0000",
+      "carbon_intensity": 809.6284790039062
+    },
+    {
+      "timestamp": "2025-02-12T02:00:00+0000",
+      "carbon_intensity": 802.5601196289062
+    },
+    {
+      "timestamp": "2025-02-12T03:00:00+0000",
+      "carbon_intensity": 819.3018188476562
+    },
+    {
+      "timestamp": "2025-02-12T04:00:00+0000",
+      "carbon_intensity": 804.6973876953125
+    },
+    {
+      "timestamp": "2025-02-12T05:00:00+0000",
+      "carbon_intensity": 805.2689208984375
+    },
+    {
+      "timestamp": "2025-02-12T06:00:00+0000",
+      "carbon_intensity": 803.7570190429688
+    },
+    {
+      "timestamp": "2025-02-12T07:00:00+0000",
+      "carbon_intensity": 784.671142578125
+    },
+    {
+      "timestamp": "2025-02-12T08:00:00+0000",
+      "carbon_intensity": 761.608154296875
+    },
+    {
+      "timestamp": "2025-02-12T09:00:00+0000",
+      "carbon_intensity": 702.4423217773438
+    },
+    {
+      "timestamp": "2025-02-12T10:00:00+0000",
+      "carbon_intensity": 673.6963500976562
+    },
+    {
+      "timestamp": "2025-02-12T11:00:00+0000",
+      "carbon_intensity": 635.4498901367188
+    },
+    {
+      "timestamp": "2025-02-12T12:00:00+0000",
+      "carbon_intensity": 625.9124145507812
+    },
+    {
+      "timestamp": "2025-02-12T13:00:00+0000",
+      "carbon_intensity": 677.7963256835938
+    },
+    {
+      "timestamp": "2025-02-12T14:00:00+0000",
+      "carbon_intensity": 759.3143310546875
+    },
+    {
+      "timestamp": "2025-02-12T15:00:00+0000",
+      "carbon_intensity": 850.2232055664062
+    },
+    {
+      "timestamp": "2025-02-12T16:00:00+0000",
+      "carbon_intensity": 837.190185546875
+    },
+    {
+      "timestamp": "2025-02-12T17:00:00+0000",
+      "carbon_intensity": 821.4901123046875
+    },
+    {
+      "timestamp": "2025-02-12T18:00:00+0000",
+      "carbon_intensity": 810.2566528320312
+    },
+    {
+      "timestamp": "2025-02-12T19:00:00+0000",
+      "carbon_intensity": 806.5724487304688
+    },
+    {
+      "timestamp": "2025-02-12T20:00:00+0000",
+      "carbon_intensity": 820.29541015625
+    },
+    {
+      "timestamp": "2025-02-12T21:00:00+0000",
+      "carbon_intensity": 830.7653198242188
+    },
+    {
+      "timestamp": "2025-02-12T22:00:00+0000",
+      "carbon_intensity": 845.9474487304688
+    },
+    {
+      "timestamp": "2025-02-12T23:00:00+0000",
+      "carbon_intensity": 855.0365600585938
+    },
+    {
+      "timestamp": "2025-02-13T00:00:00+0000",
+      "carbon_intensity": 858.6707153320312
+    },
+    {
+      "timestamp": "2025-02-13T01:00:00+0000",
+      "carbon_intensity": 860.3603515625
+    },
+    {
+      "timestamp": "2025-02-13T02:00:00+0000",
+      "carbon_intensity": 857.7286987304688
+    },
+    {
+      "timestamp": "2025-02-13T03:00:00+0000",
+      "carbon_intensity": 854.1959228515625
+    },
+    {
+      "timestamp": "2025-02-13T04:00:00+0000",
+      "carbon_intensity": 844.5084838867188
+    },
+    {
+      "timestamp": "2025-02-13T05:00:00+0000",
+      "carbon_intensity": 840.7544555664062
+    },
+    {
+      "timestamp": "2025-02-13T06:00:00+0000",
+      "carbon_intensity": 841.5078125
+    },
+    {
+      "timestamp": "2025-02-13T07:00:00+0000",
+      "carbon_intensity": 819.5015869140625
+    },
+    {
+      "timestamp": "2025-02-13T08:00:00+0000",
+      "carbon_intensity": 804.6458740234375
+    },
+    {
+      "timestamp": "2025-02-13T09:00:00+0000",
+      "carbon_intensity": 745.3658447265625
+    },
+    {
+      "timestamp": "2025-02-13T10:00:00+0000",
+      "carbon_intensity": 713.187255859375
+    },
+    {
+      "timestamp": "2025-02-13T11:00:00+0000",
+      "carbon_intensity": 680.190673828125
+    },
+    {
+      "timestamp": "2025-02-13T12:00:00+0000",
+      "carbon_intensity": 676.084228515625
+    },
+    {
+      "timestamp": "2025-02-13T13:00:00+0000",
+      "carbon_intensity": 729.7774047851562
+    },
+    {
+      "timestamp": "2025-02-13T14:00:00+0000",
+      "carbon_intensity": 811.5059814453125
+    },
+    {
+      "timestamp": "2025-02-13T15:00:00+0000",
+      "carbon_intensity": 890.2259521484375
+    },
+    {
+      "timestamp": "2025-02-13T16:00:00+0000",
+      "carbon_intensity": 895.97021484375
+    },
+    {
+      "timestamp": "2025-02-13T17:00:00+0000",
+      "carbon_intensity": 900.2443237304688
+    },
+    {
+      "timestamp": "2025-02-13T18:00:00+0000",
+      "carbon_intensity": 892.465576171875
+    },
+    {
+      "timestamp": "2025-02-13T19:00:00+0000",
+      "carbon_intensity": 918.2103881835938
+    },
+    {
+      "timestamp": "2025-02-13T20:00:00+0000",
+      "carbon_intensity": 929.1538696289062
+    },
+    {
+      "timestamp": "2025-02-13T21:00:00+0000",
+      "carbon_intensity": 934.3062133789062
+    },
+    {
+      "timestamp": "2025-02-13T22:00:00+0000",
+      "carbon_intensity": 943.2625732421875
+    },
+    {
+      "timestamp": "2025-02-13T23:00:00+0000",
+      "carbon_intensity": 948.1881713867188
+    },
+    {
+      "timestamp": "2025-02-14T00:00:00+0000",
+      "carbon_intensity": 950.0591430664062
+    },
+    {
+      "timestamp": "2025-02-14T01:00:00+0000",
+      "carbon_intensity": 953.4037475585938
+    },
+    {
+      "timestamp": "2025-02-14T02:00:00+0000",
+      "carbon_intensity": 954.2686767578125
+    },
+    {
+      "timestamp": "2025-02-14T03:00:00+0000",
+      "carbon_intensity": 956.5640258789062
+    },
+    {
+      "timestamp": "2025-02-14T04:00:00+0000",
+      "carbon_intensity": 952.4248657226562
+    },
+    {
+      "timestamp": "2025-02-14T05:00:00+0000",
+      "carbon_intensity": 953.14111328125
+    },
+    {
+      "timestamp": "2025-02-14T06:00:00+0000",
+      "carbon_intensity": 953.3930053710938
+    },
+    {
+      "timestamp": "2025-02-14T07:00:00+0000",
+      "carbon_intensity": 931.9714965820312
+    },
+    {
+      "timestamp": "2025-02-14T08:00:00+0000",
+      "carbon_intensity": 874.76806640625
+    },
+    {
+      "timestamp": "2025-02-14T09:00:00+0000",
+      "carbon_intensity": 813.6334838867188
+    },
+    {
+      "timestamp": "2025-02-14T10:00:00+0000",
+      "carbon_intensity": 779.1763916015625
+    },
+    {
+      "timestamp": "2025-02-14T11:00:00+0000",
+      "carbon_intensity": 740.96923828125
+    },
+    {
+      "timestamp": "2025-02-14T12:00:00+0000",
+      "carbon_intensity": 722.9464721679688
+    },
+    {
+      "timestamp": "2025-02-14T13:00:00+0000",
+      "carbon_intensity": 765.0826416015625
+    },
+    {
+      "timestamp": "2025-02-14T14:00:00+0000",
+      "carbon_intensity": 809.19921875
+    },
+    {
+      "timestamp": "2025-02-14T15:00:00+0000",
+      "carbon_intensity": 886.04296875
+    },
+    {
+      "timestamp": "2025-02-14T16:00:00+0000",
+      "carbon_intensity": 904.2893676757812
+    },
+    {
+      "timestamp": "2025-02-14T17:00:00+0000",
+      "carbon_intensity": 887.0148315429688
+    },
+    {
+      "timestamp": "2025-02-14T18:00:00+0000",
+      "carbon_intensity": 868.8385009765625
+    },
+    {
+      "timestamp": "2025-02-14T19:00:00+0000",
+      "carbon_intensity": 894.6686401367188
+    },
+    {
+      "timestamp": "2025-02-14T20:00:00+0000",
+      "carbon_intensity": 918.413818359375
+    },
+    {
+      "timestamp": "2025-02-14T21:00:00+0000",
+      "carbon_intensity": 925.0421142578125
+    },
+    {
+      "timestamp": "2025-02-14T22:00:00+0000",
+      "carbon_intensity": 928.2237548828125
+    },
+    {
+      "timestamp": "2025-02-14T23:00:00+0000",
+      "carbon_intensity": 933.4627685546875
+    }
+  ]
+}

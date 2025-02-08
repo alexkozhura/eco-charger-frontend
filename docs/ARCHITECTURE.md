@@ -27,10 +27,29 @@ src/
 - Axios for API calls
 
 ## API Integration
-- Development: Using mock data from src/mocks/forecast.json
-- Production: https://eco-charger-api-731507267492.europe-west9.run.app/forecast
-- Returns 168-hour carbon intensity forecast
-- Future extensions: price data, recommendations
+
+### Development
+Mock data structure (src/mocks/forecast.json):
+```json
+{
+  "generated_at": "2025-02-08T07:53:04.961093+00:00",
+  "forecast": [
+    {
+      "timestamp": "2025-02-08T00:00:00+0000",
+      "carbon_intensity": 631.4999389648438
+    }
+  ]
+}
+```
+
+### Production
+- Endpoint: https://eco-charger-api-731507267492.europe-west9.run.app/forecast
+- Returns 168-hour carbon intensity forecast with hourly granularity
+- Carbon intensity values in gCO2/kWh
+
+### Future Extensions
+- Price data integration
+- Smart scheduling recommendations
 
 ## Component Generation
 - Using v0.dev for initial component prototypes
