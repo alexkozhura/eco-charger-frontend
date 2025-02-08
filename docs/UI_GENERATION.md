@@ -27,4 +27,5 @@ Create a responsive React component with Recharts showing a 24-hour carbon inten
 - Color gradient needs tuning for actual data ranges
 - v0.dev Next.js template needs adapting for standard React apps
 - Main App.tsx requires manual update to use new components
-- React 18 required for Recharts compatibility
+- Recharts shape prop requires careful type handling
+- Props passing between Recharts and custom components needs explicit transformation
