@@ -2,9 +2,9 @@ import CarbonIntensityChart from './components/CarbonIntensityChart';
 
 function App() {
   return (
-    <div className="flex min-h-screen bg-gray-50">
-      <div className="mx-auto w-full max-w-4xl px-4">
-        <h1 className="text-2xl font-bold mb-4 text-center">Carbon Intensity Dashboard</h1>
+    <div className="flex flex-col items-center min-h-screen bg-gray-50">
+      <div className="container mx-auto">
+        <h1 className="my-8 text-2xl font-bold text-center">Carbon Intensity Dashboard</h1>
         <CarbonIntensityChart />
       </div>
     </div>
