@@ -19,6 +19,13 @@ npm run dev
 2. Enable smart scheduling of energy-intensive tasks
 3. Prepare architecture for future React Native port
 
+## Component Architecture
+- Business logic in separate hooks and utilities
+- UI components in presentational/container pattern
+- Platform-agnostic data transformations
+- Chart components wrapper pattern for future RN adaptation
+- Component props designed for cross-platform use
+
 ## Implementation Phases
 
 ### Phase 1: Web MVP
