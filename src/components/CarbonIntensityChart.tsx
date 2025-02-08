@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useMemo } from "react"
+import { CarbonIntensityTooltip } from "./tooltips/CarbonIntensityTooltip"
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, ResponsiveContainer, Tooltip } from "recharts"
 import { Card, CardContent } from "./ui/card"
 import { getColor } from "../utils/colorGradient"
@@ -24,12 +25,6 @@ interface CustomBarProps {
   intensity: number
   minIntensity: number
   maxIntensity: number
-}
-
-interface TooltipProps {
-  active?: boolean
-  payload?: Array<{ value: number }>
-  label?: string
 }
 
 const transformData = (rawData: IntensityData[]): ChartData[] => {
@@ -69,7 +64,7 @@ export default function CarbonIntensityChart() {
               <CartesianGrid strokeDasharray="3 3" />
               <XAxis dataKey="time" />
               <YAxis label={{ value: "gCO2/kWh", angle: -90, position: "insideLeft" }} />
-              <Tooltip content={<CustomTooltip />} />
+              <Tooltip content={<CarbonIntensityTooltip />} />
               <Bar
                 dataKey="intensity"
                 shape={(props: any) => {
@@ -88,18 +83,6 @@ export default function CarbonIntensityChart() {
       </CardContent>
     </Card>
   )
-}
-
-const CustomTooltip = ({ active, payload, label }: TooltipProps) => {
-  if (active && payload && payload.length) {
-    return (
-      <div className="bg-white border border-gray-200 p-2 shadow-sm rounded-md">
-        <p className="font-medium">{`Time: ${label}`}</p>
-        <p>{`Carbon Intensity: ${payload[0].value} gCO2/kWh`}</p>
-      </div>
-    )
-  }
-  return null
 }
 
 const CustomBar = (props: CustomBarProps) => {
