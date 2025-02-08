@@ -56,7 +56,7 @@ export default function CarbonIntensityChart() {
 
   return (
     <Card className="w-full max-w-4xl mx-auto p-4">
-      <div className="text-center mb-6">
+      <div className="flex flex-col items-center mb-6">
         <h2 className="text-xl font-semibold">24-Hour Carbon Intensity</h2>
         <p className="text-gray-600">Carbon intensity (gCO2/kWh) over the next 24 hours</p>
       </div>
