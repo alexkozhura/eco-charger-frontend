@@ -2,7 +2,7 @@
 
 import { useState, useMemo } from "react"
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, ResponsiveContainer, Tooltip } from "recharts"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "./ui/card"
+import { Card, CardContent } from "./ui/card"
 import { getColor } from "../utils/colorGradient"
 import mockForecast from "../mocks/forecast.json"
 
@@ -57,10 +57,8 @@ export default function CarbonIntensityChart() {
   return (
     <Card className="w-full max-w-4xl mx-auto p-4">
       <CardContent>
-        <div className="flex flex-col items-center mb-6">
-          <h2 className="text-xl font-semibold">24-Hour Carbon Intensity</h2>
-          <p className="text-gray-600">Carbon intensity (gCO2/kWh) over the next 24 hours</p>
-        </div>
+        <h2 className="text-xl font-semibold mb-2" style={{textAlign: 'center'}}>24-Hour Carbon Intensity</h2>
+        <p className="text-gray-600 mb-6" style={{textAlign: 'center'}}>Carbon intensity (gCO2/kWh) over the next 24 hours</p>
         <div style={{ width: '100%', height: 400 }}>
           <ResponsiveContainer width="100%" height="100%">
             <BarChart 

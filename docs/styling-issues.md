@@ -22,8 +22,19 @@
    - Added `w-full text-center` to both text elements
    - Result: Still left-aligned
 
-### Next Steps to Try
-1. Check if any parent styles are overriding the text alignment
-2. Investigate if Tailwind classes are being properly loaded
-3. Consider using inline styles temporarily to isolate the issue
-4. Check browser dev tools for any competing styles
+### Investigation Results
+
+5. **Checked Dev Tools Output**
+   - Found nested `text-center` divs with no effect
+   - Parent `CardContent` div's `text-center` class is not propagating
+   - Issue likely caused by flexbox layout overriding text alignment
+
+### Solution Found
+
+6. **Used inline styles with proper Card structure**
+   - Fixed misplaced CardContent tag
+   - Applied inline styles: `style={{textAlign: 'center'}}` 
+   - Tailwind classes were being overridden, inline styles take precedence
+   - Result: Text properly centered
+
+Key learning: When Tailwind classes don't achieve desired effect, inline styles can be used as they have higher specificity.
