@@ -24,5 +24,5 @@ export function CardDescription({ children }: { children: React.ReactNode }) {
 }
 
 export function CardContent({ children }: { children: React.ReactNode }) {
-  return <div>{children}</div>
+  return <div className="text-center">{children}</div>
 }
