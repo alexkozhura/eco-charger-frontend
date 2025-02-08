@@ -37,7 +37,13 @@ npm run dev
 - Platform-specific optimizations
 
 ## Design Principles
-- Use Flexbox-based layouts
+- Use Tailwind CSS for styling
+- Flexbox-based layouts
 - Separate business logic from UI
 - Modular component structure
 - Consistent data patterns
+
+## Styling
+- Tailwind CSS for utility-first styling
+- Component-level styles in ui/ directory
+- PostCSS for processing Tailwind directives
